@@ -1,0 +1,4 @@
+# Ignore test directory and assessment prep
+assessment_prep
+test.rb
+
